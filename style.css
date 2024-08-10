@@ -8,9 +8,10 @@
     font-family: "Poppins", sans-serif;;
 }
 body{
-    background-image:url(img-1.jpg);
+    background-image:url(img-1.webp);
     height: 100vh;
     background-size: cover;
+    
   
     /* background-color: rgb(217, 255, 192); */
     display: flex;
